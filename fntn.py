@@ -6,4 +6,6 @@ for a in para:
 
 print(unique_list)
 
+#some ch
+
 
